@@ -1,0 +1,5 @@
+2024-09-05 17:28:57 CRITICAL: A critical error occurred
+Traceback (most recent call last):
+  File "/Users/adewaleadenle/Downloads/Dev/Orion2/app.py", line 994, in <module>
+    app = App(root)
+TypeError: App.__init__() takes 1 positional argument but 2 were given
